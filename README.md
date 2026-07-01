@@ -4,6 +4,4 @@ Official repository for sparse-view 3D tomato rootstock stem geometry recovery v
 
 [TODO] The source code and detailed instructions are on the way.
 
-[TODO] The dataset will be made available.
-
-[20260701] Repository created for manuscript submission.
+[20260701] The dataset will be made available.
